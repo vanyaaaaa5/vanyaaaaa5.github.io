@@ -1,0 +1,100 @@
+/* Start Body */
+body {
+    background-color: aliceblue; color: aliceblue;
+    background-image: url('../images/gedung-smp-terpadu-alhikmah.jpg');
+}
+/* End Body */
+
+/* Start Nav */
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav {
+    margin: auto;
+    text-align: center;
+    font-family: 'Brandon Grotesque','brandon-grotesque',Helvetica,sans-serif;
+    font-weight: normal;
+    width: 100%;
+    font-size: 20px;
+}
+
+.nav ul { 
+    background-color: hsla(189, 82%, 51%, 0.953);
+    list-style: none
+    border-radius: 4px;
+    position: relative;
+    display: inline-table;
+    width: 100%;
+    /*
+    box-shadow: 
+        0 3px 5px - 1px aliceblue,
+        0 6px 18px 0 aquamarine,
+        0 1px 18px 0 aqua
+    */
+}
+
+.nav li {
+    float: left;
+    /*
+    border-right: 1px solid aquamarine;
+    display: inline-block;
+    */
+}
+
+.nav li:hover {
+    background: hsla(189, 71%, 68%, 0.953);
+}
+
+.nav li:hover a {
+    color: azure;
+    /*font-size: 20px;
+    padding: 10px 20px;*/
+}
+
+.nav a {
+    display: block;
+    padding: 25px;
+    color: blue;
+    text-decoration: none;
+}
+/* End Nav*/
+
+/* Start Debug */
+.bg-blue {
+    background-color: blue;
+}
+.bg-yellow {
+    background-color: yellow;
+}
+/* End Debug */
+
+/* Start Container */
+.container {
+    margin: 10px auto;
+    overflow: auto;
+    width: 90%;
+}
+/* End Container */
+
+/* Start Logo
+.logo {
+    text-align: center;
+}
+*/
+
+/* Start Anchor / Hyperlink*/
+a:link,
+a:visited {
+    color: aqua;
+    text-decoration: none;
+}
+a:hover,
+a:active {
+    color: #000000
+    text-decoration: underline;
+}
+/* End Anchor / Hyperlink*/
+
+/* Start */
+/* End */
