@@ -1,7 +1,7 @@
 /* Start Body */
 body {
     background-color: aliceblue; color: aliceblue;
-    background-image: url('../images/putih-background.jpg');
+    background-image: url('../images/gedung-smp-terpadu-alhikmah.JPG');
     background-position-x;
 }
 /* End Body */
@@ -200,7 +200,6 @@ a:active {
   transition-delay: 0.4s;
 }
 
-
 /* Demo purposes only */
 
 body {
@@ -208,6 +207,14 @@ body {
   text-align: center;
 }
 /* End Effect*/
+
+/* Start Menu Sekunder */
+.menu-sekunder-one {
+  
+}
+.menu-sekunder-two
+.menu-sekunder-three
+/* End Menu Sekunder */
 
 /* Start */
 /* End */
